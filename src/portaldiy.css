@@ -79,7 +79,7 @@ a{text-decoration: none;color: #333;border: 0;font-size: 100%;margin: 0;padding:
 .lph-right .kuaixun .kx-ul li .time { float: left;width: 58px; height: 36px; line-height: 36px; text-align: center;color: #272322; font-size: 16px; background: #F2F2F2}
 /*.lph-right .kuaixun .kx-ul li .time { -webkit-transition: all .3s;-o-transition: all .3s;transition: all .3s}*/
 .lph-right .kuaixun .kx-ul li:hover .time { color: #FFFFFF; background: #00AA98}
-.lph-right .kuaixun .kx-ul li .tits { height: 36px; line-height: 18px; overflow: hidden; font-size: 13px; color: #3f3f3f; padding-left: 8px}
+.lph-right .kuaixun .kx-ul li .tits { line-height: 18px; overflow: hidden; font-size: 16px; color: #3f3f3f; padding-left: 8px}
 /*.lph-right .kuaixun .kx-ul li .tits { -webkit-transition: all .3s;-o-transition: all .3s;transition: all .3s}*/
 .lph-right .kuaixun .kx-ul li:hover .tits { color: #00AA98}
 .lph-right .hottags{}/*右侧标签*/
@@ -422,5 +422,5 @@ span.daren-new-icon { background: url(new.png) no-repeat; width:36px;height:36px
 .mainother .links ul li a { color: #333333}
 
 /*带引号的小样*/
-.album-subtitle { font-size: 16px; margin: 10px 0 0 24px; padding-left: 24px; display: inline-block; height: 28px; line-height: 28px; color: #88; background: url(block_l.png) no-repeat 0 0}
+.album-subtitle { font-size: 18px; margin: 10px 0 0 0px; padding-left: 24px; display: inline-block; height: 28px; line-height: 28px; color: #88; background: url(block_l.png) no-repeat 0 0}
 .album-subtitle span { display: block; padding-right: 24px; background: url(block_r.png) no-repeat right 0}
