@@ -46,7 +46,7 @@
              <!--[diy=diy9]--><div id="diy9" class="area"></div><!--[/diy]-->
           </div>
           <div class="pbzttab right-box" id="pbzttab">
-        <div class="pbz-hd cl"> <a class="cur" href="javascript:;">名家专栏</a> <a class="" href="javascript:;">时事评论</a> <i></i> </div>
+        <div class="pbz-hd cl"> <a class="cur" href="javascript:;">最新文章</a> <a class="" href="javascript:;">时事评论</a> <i></i> </div>
         <div class="pbz-bd">
               <div class="bd comment">
             <!--[diy=diy10]--><div id="diy10" class="area"></div><!--[/diy]-->
@@ -56,7 +56,7 @@
           </div>
             </div>
       </div>
-          <div class="express right-box cl">
+          <div class="express">
              <!--[diy=diy12]--><div id="diy12" class="area"></div><!--[/diy]-->
           </div>
         <div class="weixinewm right-box">

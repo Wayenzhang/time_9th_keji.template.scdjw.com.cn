@@ -29,6 +29,9 @@ table { border-collapse:collapse; border-spacing: 0}
 .ad-right { width: 260px; overflow: hidden}
 
 /* 全局右侧DIY样式 */
+#article_content { text-indent: 2em;}
+#article_content p {margin-bottom: 30px;}
+#article_content a {color: blue; text-decoration: underline;}
 
 .toprec_recread { width: 320px}
 .toprec_recread li { float: left; width: 120px; overflow: hidden; margin-right: 20px}
@@ -198,7 +201,7 @@ transition: color .2s linear,background-color .3s linear,border-color .3s linear
 
 
 
-#headnav { width: 100%; min-width: 1140px; border-bottom: 0; overflow: visible ;z-index:100}
+#headnav { width: 100%; min-width: 1140px; border-bottom: 5px solid rgb(166, 17, 17); overflow: visible ;z-index:100}
 #toptb { height: 30px; line-height: 30px; padding: 3px 0; border: 0 !important; transition: all 0.4s; background: #3E3E3E !important}
 #toptb a { height: 30px; line-height: 30px; color: #B7BAC1; vertical-align: middle}
 #toptb .qq_bind { margin: 5px 0 0 0; border-radius: 2px}
