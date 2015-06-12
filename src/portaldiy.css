@@ -346,8 +346,8 @@ li i.nxt{background-position: -58px -71px; margin-left: 5px;}
 .index-main .index-left .idx-selLead .items.ml14{margin-left:  14px;}
 .index-main .index-left .idx-selLead .items.items-borb{border-bottom: 1px solid #e8e8e8;}
 .index-main .index-left .idx-selLead .items-line{float: left;margin-top: 15px;width: 1px;height: 112px;background-color: #e8e8e8;}
-.index-main .index-left .idx-selLead .items .pic{float: left; border: 5px solid white;}
-.index-main .index-left .idx-selLead .items .pic img{display: block;}
+.pic{float: left; border: 5px solid white;}
+.pic img{display: block;}
 .index-main .index-left .idx-selLead .items .txt{overflow: hidden;padding-left: 14px;}
 .index-main .index-left .idx-selLead .items .txt h1{height: 40px;line-height: 20px;overflow: hidden;}
 .index-main .index-left .idx-selLead .items .txt h1 a{font-size: 15px;color: #272322;}
