@@ -346,7 +346,7 @@ li i.nxt{background-position: -58px -71px; margin-left: 5px;}
 .index-main .index-left .idx-selLead .items.ml14{margin-left:  14px;}
 .index-main .index-left .idx-selLead .items.items-borb{border-bottom: 1px solid #e8e8e8;}
 .index-main .index-left .idx-selLead .items-line{float: left;margin-top: 15px;width: 1px;height: 112px;background-color: #e8e8e8;}
-.pic{float: left; border: 5px solid white;}
+.pic{float: left; border: 5px solid white;position: relative;}
 .pic img{display: block;}
 .index-main .index-left .idx-selLead .items .txt{overflow: hidden;padding-left: 14px;}
 .index-main .index-left .idx-selLead .items .txt h1{height: 40px;line-height: 20px;overflow: hidden;}
@@ -368,6 +368,7 @@ li i.nxt{background-position: -58px -71px; margin-left: 5px;}
 .lph-pageList .wrap li.pbox{padding: 30px 0 0 0; border-bottom: solid 1px #EEEEEE;}
 .lph-pageList .wrap li.pbox .img{float: left; position: relative; }
 a.sort { padding: 5px 12px; font-size: 14px; color: #fff; line-height: 1; position: absolute; top: 0; left: 0; background: url(black.png) repeat 0 0}
+a.sortRightBottom { padding: 5px 12px; font-size: 14px; color: #fff; line-height: 1; position: absolute; bottom: 0; right: 0; background: url(black.png) repeat 0 0}
 .lph-pageList .wrap li.pbox .word{ padding-left: 235px; padding-right: 10px; }
 .lph-pageList .wrap li.pbox .word h2{ color: #a61111; font-size: 20px; font-weight: bold; }
 .lph-pageList .wrap li.pbox .word h2{-webkit-transition: all .3s;-o-transition: all .3s;transition: all .3s; }

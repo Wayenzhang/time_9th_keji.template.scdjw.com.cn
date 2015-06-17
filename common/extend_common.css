@@ -24,7 +24,7 @@ table { border-collapse:collapse; border-spacing: 0}
 .bni{ border: 0 !important}
 .ct1 { border: 1px solid #EDEDED}
 .ct2_a .xl2 li { width: 488px}
-.wp, .w980, .time_con { width: 1140px; margin: 0 auto}
+.wp, .w980, .time_con { width: 1140px; margin: 0 auto; background-color: #DBDBDB;}
 #pt .z a { font-size: 14px}
 .ad-right { width: 260px; overflow: hidden}
 
